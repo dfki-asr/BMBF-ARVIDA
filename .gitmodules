@@ -4,3 +4,30 @@
 [submodule "igraphstore"]
 	path = igraphstore
 	url = https://github.com/rmrschub/igraphstore.git
+[submodule "fresco"]
+	path = fresco
+	url = https://github.com/rmrschub/fresco.git
+[submodule "flapjack"]
+	path = flapjack
+	url = https://github.com/rmrschub/flapjack.git
+[submodule "sodalite"]
+	path = sodalite
+	url = https://github.com/rmrschub/sodalite.git
+[submodule "realsense4j"]
+	path = realsense4j
+	url = https://github.com/rmrschub/realsense4j.git
+[submodule "realsenseLD"]
+	path = realsenseLD
+	url = https://github.com/rmrschub/realsenseLD.git
+[submodule "grover"]
+	path = grover
+	url = https://github.com/rmrschub/grover.git
+[submodule "spinderella"]
+	path = spinderella
+	url = https://github.com/rmrschub/spinderella.git
+[submodule "aida"]
+	path = aida
+	url = https://github.com/rmrschub/aida.git
+[submodule "art4j"]
+	path = art4j
+	url = https://github.com/rmrschub/art4j.git
