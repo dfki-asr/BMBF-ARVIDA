@@ -1,0 +1,6 @@
+[submodule "warcmock"]
+	path = warcmock
+	url = https://github.com/rmrschub/warcmock.git
+[submodule "igraphstore"]
+	path = igraphstore
+	url = https://github.com/rmrschub/igraphstore.git
